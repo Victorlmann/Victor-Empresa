@@ -1,4 +1,23 @@
-html {
-  height: 100%;
-  width: 100%;
+
+#banner{
+  width: 50%;
+}
+
+.titulo-principal {
+  padding-left: 20px;
+}
+
+.texto-centralizado {
+  text-align: center;
+}
+#missao {
+  font-size: 28px;
+}
+
+p {
+  text-align: center;
+}
+
+em strong{
+  color: purple;
 }
